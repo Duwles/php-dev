@@ -1,0 +1,4 @@
+# ignore composer files
+composer.phar
+composer.lock
+vendor/
