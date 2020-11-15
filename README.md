@@ -2,7 +2,7 @@
 
 
 
-## Installation:
+## Install:
 ```json
 {
     "require": {
